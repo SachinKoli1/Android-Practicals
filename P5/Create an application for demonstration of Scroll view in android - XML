@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="56dp"
+                android:text="This is the first text view."
+                android:textSize="18sp"
+                android:layout_marginBottom="20dp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="56dp"
+                android:text="This is the second text view."
+                android:textSize="18sp"
+                android:layout_marginBottom="20dp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="56dp"
+                android:text="This is the third text view."
+                android:textSize="18sp"
+                android:layout_marginBottom="20dp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="56dp"
+                android:text="This is the fourth text view."
+                android:textSize="18sp"
+                android:layout_marginBottom="20dp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="56dp"
+                android:text="This is the fifth text view."
+                android:textSize="18sp"
+                android:layout_marginBottom="20dp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="56dp"
+                android:text="This is the sixth text view."
+                android:textSize="18sp"
+                android:layout_marginBottom="20dp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="56dp"
+                android:text="This is the seventh text view."
+                android:textSize="18sp"
+                android:layout_marginBottom="20dp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="56dp"
+                android:text="This is the eighth text view."
+                android:textSize="18sp"
+                android:layout_marginBottom="20dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="56dp"
+                android:text="This is the ninth text view."
+                android:textSize="18sp"
+                android:layout_marginBottom="20dp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="56dp"
+                android:text="This is the tenth text view."
+                android:textSize="18sp"
+                android:layout_marginBottom="20dp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="56dp"
+                android:text="This is the Elevanth text view."
+                android:textSize="18sp"
+                android:layout_marginBottom="20dp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="56dp"
+                android:text="This is the Twelve text view."
+                android:textSize="18sp"
+                android:layout_marginBottom="20dp"/>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Click Me" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
