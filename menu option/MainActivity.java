@@ -37,3 +37,23 @@ public class MainActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 }
+
+
+
+// Step 1: Create empty views application
+
+// Step 2: Create the Menu XML File
+//      Go to: res/menu/
+//      IF the menu folder doesn’t exist, create it.
+//      Create a new file: menu_main.xml
+
+// Step 4: Update themes.xml
+//         Go to: res/values/themes.xml
+//         Modify the parent theme to enable the action bar:
+//      <style name="Theme.MyApp" parent="Theme.MaterialComponents.Light.DarkActionBar">
+
+// Step 5: Go to: AndroidManifest.xml
+//      correct code in AndroidManifest.xml file.
+//      <application android:theme="@style/Theme.MyApp">
+
+// Step 6: Run the app
