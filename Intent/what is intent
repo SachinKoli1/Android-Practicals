@@ -1,0 +1,8 @@
+In Android, an **Intent** is like a messenger or a request that allows one part of your app to communicate with another part of your app, or even with other apps. 
+It is used to **perform actions** such as opening a new screen (activity), sending data, or starting a service.
+
+There are two main types of intents:
+
+1. **Explicit Intent**: - Example: Opening a specific screen in your app.
+   
+2. **Implicit Intent**: - Example: Opening a webpage in a browser or sending an email.
